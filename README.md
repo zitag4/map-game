@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Important notes
+Limitations due to the quota restriction:
+* `Google maps API` - Styling on Google maps works only in the first run of the day
+* `Geocoding API` - Getting the coordinates of the cities are working only once per day
+
+## Instructions
+
+To install and launch the application download the zip file or clone the repository on your local computer, run
+ * `npm install` to install all dependencies
+ * `npm start` to start the server
+
 ## Available Scripts
 
 In the project directory, you can run:
